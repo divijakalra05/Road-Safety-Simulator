@@ -72,6 +72,9 @@ python road_safety_simulator.py
 ### Traffic System
 ![Traffic](traffic_rules.png)
 
+### Collision System
+![Collision](collision.png)
+
 ---
 
 ## Demo Video
